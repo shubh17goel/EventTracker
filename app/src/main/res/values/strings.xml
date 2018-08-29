@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EventTracker</string>
+    <string name="refresh"><u>Refresh</u></string>
+    <string name="no_event_found">No Event Found</string>
+
+    <string name="event_label">Event Name: %1$s</string>
+    <string name="location_label">Location : %1$s</string>
+    <string name="meeting_with_label">Meeting With : %1$s</string>
+    <string name="view_meetings"><u>View Meetings</u></string>
+    <string name="no_network">No Network</string>
+    <string name="loading_event_data">Loading Event Data ...</string>
+    <string name="loading_meeting_data">Loading Meeting Data ...</string>
+
+    <string name="something_went_wrong_please_try_again">Something went wrong. Please try again.</string>
+    <string name="last_updated_at">Last Updated At : %1$s</string>
+    <string name="no_meeting_found">No Meeting Found</string>
+
+</resources>
